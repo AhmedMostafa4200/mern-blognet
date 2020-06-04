@@ -1,0 +1,14 @@
+.profile-card {
+  max-width: 90%;
+  text-align: center;
+  margin: 0 auto;
+  color: whitesmoke;
+}
+.profile-card:hover {
+  color: #e7810a;
+}
+.profile-card-image {
+  margin-top: 70px;
+  border-radius: 50%;
+  max-width: 200px;
+}

@@ -29,5 +29,7 @@ function mapStateToProps(state) {
   };
 }
 export default withRouter(
-  connect(mapStateToProps, { signUp, signIn })(AddBlog)
+  connect(mapStateToProps, { signUp, signIn })(AddBlog),
 );
+
+// Dummy change
